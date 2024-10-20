@@ -1,7 +1,7 @@
 # @HackerKid27
 I'm a beginning developer who codes as one of many hobbies.
 - Language: English
-- Programming Languages: Python, a bit of Arduino
+- Programming Languages: Python, Java, Kotlin, Arduino
 - OS: LINUX FOREVER!!!
 <!---
 HackerKid27/HackerKid27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
